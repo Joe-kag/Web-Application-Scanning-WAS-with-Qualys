@@ -1,0 +1,56 @@
+# 🔍 Web Application Scanning (WAS) with Qualys
+
+## 📌 Project Overview
+This project showcases dynamic application security testing (DAST) using **Qualys WAS**. It includes scanning of web applications and APIs, vulnerability management, report generation, and integration with tools like Burp Suite.
+
+---
+
+## 🛠️ Tools & Technologies
+- **Qualys Web Application Scanning (WAS)**
+- **Burp Suite**
+- **Swagger / OpenAPI**
+- **Custom API Testing**
+- **DNS Override & Path Fuzzing**
+
+---
+
+## ✅ Key Features Demonstrated
+
+### 🔐 Web & API Scanning
+- Web app and API vulnerability scanning
+- QID analysis (Confirmed, Potential, Sensitive, Informational)
+- Progressive scanning and SmartScan
+- Crawl scope configuration
+- Malware monitoring setup
+
+### 🧪 API Testing
+- API endpoint configuration
+- Swagger integration
+- Path fuzzing rules
+- DNS override for non-production testing
+
+### 🔄 Scan Configuration & Execution
+- Option profile setup and tuning
+- Launching discovery scans and maps
+- Bulk editing web application settings
+- Enhanced crawling and crawl script capture
+
+### 🔑 Authentication & Crawl Scripts
+- Standard login configuration
+- Authentication record creation and editing
+- Crawl script capturing and reuse
+
+### 📊 Reporting & Analysis
+- Scan Reports
+- Web Application Reports
+- Scorecard Reports
+- Catalog Reports
+- Asset grouping using Tags
+- Search Lists using static and dynamic QIDs
+
+### 🧩 Integration
+- Integration with **Burp Suite** for manual testing workflows
+
+---
+
+
